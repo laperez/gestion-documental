@@ -1,0 +1,7 @@
+BÚSQUEDA DE EXPEDIENTES
+
+La plicación permitirá buscar por expedientes:
+
+ - Número de expediente.
+ - Fecha de registro.
+ - Unidad administrativa.

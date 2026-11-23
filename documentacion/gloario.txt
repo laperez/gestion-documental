@@ -1,0 +1,4 @@
+GLOSARIO
+
+Expediente conjunto de documentos de un mismo procedimiento.
+Registro: anotación de entrada o salida de un documento.

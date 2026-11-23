@@ -1,0 +1,11 @@
+# Registros generados durante la ejecución de herramientas
+*.log
+
+# Archivos temporales
+*.tmp
+
+# Copias de seguridad creadas al editar documentos
+*.bak
+
+# Configuración local de Visual Studio Code
+.vscode/
