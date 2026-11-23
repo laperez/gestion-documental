@@ -1,0 +1,7 @@
+CONSULTA DE USUARIOS
+Criterios de búsqueda:
+- Nombre y apellidos.
+- Identificador de usuario.
+- Unidad administrativa.
+Restricciones: solo el personal autorizado puede
+consultar los datos de otros usuarios.
