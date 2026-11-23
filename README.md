@@ -1,3 +1,2 @@
-## Mantenimiento
-La documentación se revisa cada trimestre.
-Responsable: departamento de informática.
+# Gestión documental
+Versión del sistema: 1.0
