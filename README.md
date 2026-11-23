@@ -1,2 +1,2 @@
 # Gestión documental
-Versión del sistema: 1.0
+Versión del sistema: 1.2
